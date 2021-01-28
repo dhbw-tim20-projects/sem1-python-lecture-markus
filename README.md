@@ -1,4 +1,4 @@
-# Pyhton Lecture
+# Python Lecture
 
 ## Disclaimer
 
