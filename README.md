@@ -1,4 +1,4 @@
-# Pyhton Lecutre
+# Pyhton Lecture
 
 ## Disclaimer
 
